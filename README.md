@@ -5,10 +5,10 @@ Discord bot that notifies about CI/CD events.
 
 Simply call the bot's RESTful interface when a CI/CD event occurs. Currently made for a Gitlab CICD pipeline. 
 
-![success](docs/message_success)
+![success](docs/message_success.png)
 
 
-![fail](docs/message_fail)
+![fail](docs/message_fail.png)
 
 
 ## Getting Started
